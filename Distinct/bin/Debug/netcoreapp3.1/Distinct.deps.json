@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Distinct/1.0.0": {
+        "dependencies": {
+          "Mathematical1": "1.0.0"
+        },
+        "runtime": {
+          "Distinct.dll": {}
+        }
+      },
+      "Mathematical1/1.0.0": {
+        "runtime": {
+          "Mathematical1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distinct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mathematical1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
