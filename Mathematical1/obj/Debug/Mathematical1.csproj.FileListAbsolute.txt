@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Mathematical1\bin\Debug\Mathematical1.dll
+C:\Users\admin\source\repos\Mathematical1\bin\Debug\Mathematical1.pdb
+C:\Users\admin\source\repos\Mathematical1\obj\Debug\Mathematical1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Mathematical1\obj\Debug\Mathematical1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Mathematical1\obj\Debug\Mathematical1.dll
+C:\Users\admin\source\repos\Mathematical1\obj\Debug\Mathematical1.pdb
